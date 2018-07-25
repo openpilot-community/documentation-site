@@ -13,6 +13,15 @@ Openpilot is compatible with several vehicle makes and models already so these a
 This is the current list of makes being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support and testing are being done on them so please follow the links to determine how far along they are.
 
+* [Toyota](/vehicles/toyota)
+* [Cadillac](/vehicles/cadillac)
+* [Chevrolet](/vehicles/chevrolet)
+* [Kia](/vehicles/kia)
+* [Lexus](/vehicles/lexus)
+* [Acura](/vehicles/acura)
+* [Tesla](/vehicles/tesla)
+* [Honda](/vehicles/honda)
+* [Hyundai](/vehicles/hyundai)
 
 ### Notes on Ford Vehicles
 

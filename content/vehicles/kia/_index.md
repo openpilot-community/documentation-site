@@ -19,8 +19,9 @@ To chat about Kia's with the community, checkout the [#hyundai](slack://channel?
 
 This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [](.//.md)
-* [](.//.md)
+
+* [](/vehicles//)
+* [](/vehicles//)
 
 ## How to add support for a vehicle
 

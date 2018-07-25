@@ -1,0 +1,701 @@
+[
+{
+	"uri": "https://docs.opc.ai/basics/",
+	"title": "Basics",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/tesla/model-s/2012-tesla-model-s/",
+	"title": "2012 Tesla Model S",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2012 Tesla Model S",
+	"content": " The 2012 Tesla Model S is currently in active testing within the community and a pull request has been made for it to be merged into the official commaai/openpilot repository.\nAlthough a pull request has been made, this does not mean it will be officially supported or upstreamed to the primary code base. It might become community supported long-term.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/tesla/model-s/2013-tesla-model-s/",
+	"title": "2013 Tesla Model S",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2013 Tesla Model S",
+	"content": " The 2013 Tesla Model S is currently in active testing within the community and a pull request has been made for it to be merged into the official commaai/openpilot repository.\nAlthough a pull request has been made, this does not mean it will be officially supported or upstreamed to the primary code base. It might become community supported long-term.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/tesla/model-s/2014-tesla-model-s/",
+	"title": "2014 Tesla Model S",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2014 Tesla Model S",
+	"content": " The 2014 Tesla Model S is currently in active testing within the community and a pull request has been made for it to be merged into the official commaai/openpilot repository.\nAlthough a pull request has been made, this does not mean it will be officially supported or upstreamed to the primary code base. It might become community supported long-term.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/cr-v/2015-honda-cr-v-touring/",
+	"title": "2015 Honda CR-V Touring",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2015 Honda CR-V Touring",
+	"content": " The 2015 Honda CR-V Touring was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2015 Honda CR-V Touring\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/acura/ilx/2016-acura-ilx/",
+	"title": "2016 Acura ILX w/ AcuraWatch Plus",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2016 Acura ILX w/ AcuraWatch Plus",
+	"content": " The 2016 Acura ILX was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2016 Acura ILX\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/cr-v/2016-honda-cr-v-touring/",
+	"title": "2016 Honda CR-V Touring",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2016 Honda CR-V Touring",
+	"content": " The 2016 Honda CR-V Touring was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2016 Honda CR-V Touring\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/civic/2016-honda-civic/",
+	"title": "2016 Honda Civic w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2016 Honda Civic w/ Honda Sensing",
+	"content": " The 2016 Honda Civic was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2016 Honda Civic\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/pilot/2016-honda-pilot/",
+	"title": "2016 Honda Pilot w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2016 Honda Pilot w/ Honda Sensing",
+	"content": " The 2016 Honda Pilot was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2016 Honda Pilot\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/ridgeline/2016-honda-ridgeline/",
+	"title": "2016 Honda Ridgeline w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2016 Honda Ridgeline w/ Honda Sensing",
+	"content": " The 2016 Honda Ridgeline was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2016 Honda Ridgeline\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/prius/2016-toyota-prius/",
+	"title": "2016 Toyota Prius w/ TSS-P",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2016 Toyota Prius w/ TSS-P",
+	"content": " The 2016 Toyota Prius was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2016 Toyota Prius\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/rav4/2016-toyota-rav4-hybrid/",
+	"title": "2016 Toyota RAV4 Hybrid",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2016 Toyota RAV4 Hybrid",
+	"content": " The 2016 Toyota RAV4 Hybrid was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2016 Toyota RAV4 Hybrid\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/rav4/2016-toyota-rav4/",
+	"title": "2016 Toyota RAV4 w/ TSS-P",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2016 Toyota RAV4 w/ TSS-P",
+	"content": " The 2016 Toyota RAV4 was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2016 Toyota RAV4\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/acura/ilx/2017-acura-ilx/",
+	"title": "2017 Acura ILX w/ AcuraWatch Plus",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Acura ILX w/ AcuraWatch Plus",
+	"content": " The 2017 Acura ILX was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Acura ILX\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/chevrolet/volt/2017-chevrolet-volt/",
+	"title": "2017 Chevrolet Volt w/ Driver Confidence II",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Chevrolet Volt w/ Driver Confidence II",
+	"content": " The 2017 Chevrolet Volt was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Chevrolet Volt\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/cr-v/2017-honda-cr-v/",
+	"title": "2017 Honda CR-V w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Honda CR-V w/ Honda Sensing",
+	"content": " The 2017 Honda CR-V was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Honda CR-V\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/civic/2017-honda-civic-hatchback/",
+	"title": "2017 Honda Civic Hatchback w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Honda Civic Hatchback w/ Honda Sensing",
+	"content": " The 2017 Honda Civic Hatchback was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Honda Civic Hatchback\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/civic/2017-honda-civic/",
+	"title": "2017 Honda Civic w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Honda Civic w/ Honda Sensing",
+	"content": " The 2017 Honda Civic was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Honda Civic\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/pilot/2017-honda-pilot/",
+	"title": "2017 Honda Pilot w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Honda Pilot w/ Honda Sensing",
+	"content": " The 2017 Honda Pilot was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Honda Pilot\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/ridgeline/2017-honda-ridgeline/",
+	"title": "2017 Honda Ridgeline w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Honda Ridgeline w/ Honda Sensing",
+	"content": " The 2017 Honda Ridgeline was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Honda Ridgeline\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/hyundai/elantra/2017-hyundai-elantra/",
+	"title": "2017 Hyundai Elantra",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Hyundai Elantra",
+	"content": " The 2017 Hyundai Elantra is currently in early development and may not be fully supported just yet. It is not currently available in the official commaai/openpilot version of openpilot just yet.\nWe will continue to update this page as things progress.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/lexus/rx/2017-lexus-rx-hybrid/",
+	"title": "2017 Lexus RX Hybrid",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Lexus RX Hybrid",
+	"content": " The 2017 Lexus RX Hybrid was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Lexus RX Hybrid\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/corolla/2017-toyota-corolla/",
+	"title": "2017 Toyota Corolla",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Toyota Corolla",
+	"content": " The 2017 Toyota Corolla was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Toyota Corolla\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/prius/2017-toyota-prius/",
+	"title": "2017 Toyota Prius",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Toyota Prius",
+	"content": " The 2017 Toyota Prius was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Toyota Prius\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/prius/2017-toyota-prius-prime/",
+	"title": "2017 Toyota Prius Prime",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Toyota Prius Prime",
+	"content": " The 2017 Toyota Prius Prime was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Toyota Prius Prime\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/prius/2017-toyota-prius-prime-tw/",
+	"title": "2017 Toyota Prius Prime (TW)",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Toyota Prius Prime (TW)",
+	"content": " The 2017 Toyota Prius Prime (TW) was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Toyota Prius Prime (TW)\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/rav4/2017-toyota-rav4/",
+	"title": "2017 Toyota RAV4",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Toyota RAV4",
+	"content": " The 2017 Toyota RAV4 was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Toyota RAV4\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/rav4/2017-toyota-rav4-hybrid/",
+	"title": "2017 Toyota RAV4 Hybrid",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2017 Toyota RAV4 Hybrid",
+	"content": " The 2017 Toyota RAV4 Hybrid was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2017 Toyota RAV4 Hybrid\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/acura/rdx/2018-acura-rdx/",
+	"title": "2018 Acura RDX w/ AcuraWatch Plus",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Acura RDX w/ AcuraWatch Plus",
+	"content": " The 2018 Acura RDX was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Acura RDX\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/cadillac/ct6/2018-cadillac-ct6/",
+	"title": "2018 Cadillac CT6",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Cadillac CT6",
+	"content": " The 2018 Cadillac CT6 was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Cadillac CT6\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/chevrolet/volt/2018-chevrolet-volt/",
+	"title": "2018 Chevrolet Volt w/ Driver Confidence II",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Chevrolet Volt w/ Driver Confidence II",
+	"content": " The 2018 Chevrolet Volt was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Chevrolet Volt\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/accord/2018-honda-accord/",
+	"title": "2018 Honda Accord",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda Accord",
+	"content": " The 2018 Honda Accord was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Honda Accord\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/accord/2018-honda-accord-hybrid/",
+	"title": "2018 Honda Accord Hybrid",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda Accord Hybrid",
+	"content": " Compatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/cr-v/2018-honda-cr-v/",
+	"title": "2018 Honda CR-V w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda CR-V w/ Honda Sensing",
+	"content": " The 2018 Honda CR-V was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Honda CR-V\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/civic/2018-honda-civic/",
+	"title": "2018 Honda Civic w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda Civic w/ Honda Sensing",
+	"content": " The 2018 Honda Civic was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Honda Civic\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/clarity/2018-honda-clarity/",
+	"title": "2018 Honda Clarity",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda Clarity",
+	"content": " The 2018 Honda Clarity is currently in early development and may not be fully supported just yet. It is not currently available in the official commaai/openpilot version of openpilot just yet.\nWe will continue to update this page as things progress.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/fit/2018-honda-fit/",
+	"title": "2018 Honda Fit w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda Fit w/ Honda Sensing",
+	"content": " The 2018 Honda Fit is currently in active testing within the community and a pull request has been made for it to be merged into the official commaai/openpilot repository.\nAlthough a pull request has been made, this does not mean it will be officially supported or upstreamed to the primary code base. It might become community supported long-term.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/odyssey/2018-honda-odyssey/",
+	"title": "2018 Honda Odyssey w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda Odyssey w/ Honda Sensing",
+	"content": " The 2018 Honda Odyssey was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Honda Odyssey\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/pilot/2018-honda-pilot/",
+	"title": "2018 Honda Pilot w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda Pilot w/ Honda Sensing",
+	"content": " The 2018 Honda Pilot was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Honda Pilot\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/ridgeline/2018-honda-ridgeline/",
+	"title": "2018 Honda Ridgeline w/ Honda Sensing",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Honda Ridgeline w/ Honda Sensing",
+	"content": " The 2018 Honda Ridgeline was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Honda Ridgeline\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/kia/sorento/2018-kia-sorento/",
+	"title": "2018 Kia Sorento",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Kia Sorento",
+	"content": " The 2018 Kia Sorento is currently in early development and may not be fully supported just yet. It is not currently available in the official commaai/openpilot version of openpilot just yet.\nWe will continue to update this page as things progress.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/kia/stinger/2018-kia-stinger/",
+	"title": "2018 Kia Stinger",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Kia Stinger",
+	"content": " The 2018 Kia Stinger is currently in early development and may not be fully supported just yet. It is not currently available in the official commaai/openpilot version of openpilot just yet.\nWe will continue to update this page as things progress.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/lexus/rx/2018-lexus-rx-hybrid/",
+	"title": "2018 Lexus RX Hybrid",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Lexus RX Hybrid",
+	"content": " The 2018 Lexus RX Hybrid was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Lexus RX Hybrid\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/c-hr/2018-toyota-c-hr-xle/",
+	"title": "2018 Toyota C-HR XLE",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Toyota C-HR XLE",
+	"content": " The 2018 Toyota C-HR XLE is currently in active testing within the community and a pull request has been made for it to be merged into the official commaai/openpilot repository.\nAlthough a pull request has been made, this does not mean it will be officially supported or upstreamed to the primary code base. It might become community supported long-term.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/camry/2018-toyota-camry-le-hybrid/",
+	"title": "2018 Toyota Camry LE Hybrid",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Toyota Camry LE Hybrid",
+	"content": " The 2018 Toyota Camry LE Hybrid is currently in active testing within the community and a pull request has been made for it to be merged into the official commaai/openpilot repository.\nAlthough a pull request has been made, this does not mean it will be officially supported or upstreamed to the primary code base. It might become community supported long-term.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/corolla/2018-toyota-corolla/",
+	"title": "2018 Toyota Corolla",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Toyota Corolla",
+	"content": " The 2018 Toyota Corolla was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Toyota Corolla\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/prius/2018-toyota-prius-prime/",
+	"title": "2018 Toyota Prius Prime",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Toyota Prius Prime",
+	"content": " The 2018 Toyota Prius Prime was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Toyota Prius Prime\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/rav4/2018-toyota-rav4/",
+	"title": "2018 Toyota RAV4",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Toyota RAV4",
+	"content": " The 2018 Toyota RAV4 was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Toyota RAV4\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/rav4/2018-toyota-rav4-hybrid/",
+	"title": "2018 Toyota RAV4 Hybrid",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Toyota RAV4 Hybrid",
+	"content": " The 2018 Toyota RAV4 Hybrid was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Toyota RAV4 Hybrid\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/rav4/2018-toyota-rav4-hybrid-de/",
+	"title": "2018 Toyota RAV4 Hybrid (DE)",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on the 2018 Toyota RAV4 Hybrid (DE)",
+	"content": " The 2018 Toyota RAV4 Hybrid (DE) was upstreamed to the commaai/openpilot repository and generally means it is a compatible / supported vehicle for openpilot.\nTo chat about 2018 Toyota RAV4 Hybrid (DE)\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatibility Longitudinal Control Comma Pedal This vehicle has openpilot compatibility Comma Pedal.\nVehicle specific benefits with Pedal "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/acura/",
+	"title": "Acura",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Acura vehicles including the  and  and  others.",
+	"content": " Openpilot is compatible with some Acura model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Acura\u0026rsquo;s with the community, checkout the #honda channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md) [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/acura/ilx/",
+	"title": "Acura ILX",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Acura ILX vehicles.",
+	"content": " Openpilot is compatible with some ILX model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about ILX\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2016 Acura ILX 2017 Acura ILX  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/acura/rdx/",
+	"title": "Acura RDX",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Acura RDX vehicles.",
+	"content": " Openpilot is compatible with some RDX model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about RDX\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Acura RDX  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/cadillac/",
+	"title": "Cadillac",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Cadillac vehicles including the  and  others.",
+	"content": " Openpilot is compatible with some Cadillac model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Cadillac\u0026rsquo;s with the community, checkout the #gm channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/cadillac/ct6/",
+	"title": "Cadillac CT6",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Cadillac CT6 vehicles.",
+	"content": " Openpilot is compatible with some CT6 model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about CT6\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Cadillac CT6  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/chevrolet/",
+	"title": "Chevrolet",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Chevrolet vehicles including the  and  others.",
+	"content": " Openpilot is compatible with some Chevrolet model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Chevrolet\u0026rsquo;s with the community, checkout the #gm channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/chevrolet/volt/",
+	"title": "Chevrolet Volt",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Chevrolet Volt vehicles.",
+	"content": " Openpilot is compatible with some Volt model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Volt\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2017 Chevrolet Volt 2018 Chevrolet Volt  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/hardware/eon/",
+	"title": "EON",
+	"tags": [],
+	"description": "",
+	"content": " EON is the device that runs openpilot software. It does not ship with openpilot from the factory. And it is not sold as a self-driving vehicle kit.\nHardware Versions  EON Dashcam DevKit  "
+},
+{
+	"uri": "https://docs.opc.ai/hardware/eon/eon-dashcam-dev-kit/",
+	"title": "EON Dashcam DevKit",
+	"tags": [],
+	"description": "",
+	"content": " EON is the device that runs openpilot software. It does not ship with openpilot from the factory. And it is not sold as a self-driving vehicle kit.\nYou must add things to your vehicle along with configuring this device to run openpilot before it will enable those features.\nWhere to buy The EON Dashcam DevKit is available for purchase at the following places:\n https://comma.ai/shop/products/eon-dashcam-devkit/  How to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nHowever, we haven\u0026rsquo;t found plans for the EON Dashcam DevKit but will post them if / when we can make them available.\nCompatible Vehicles This hardware is known to generally work with all fairly modern vehicles.\n"
+},
+{
+	"uri": "https://docs.opc.ai/hardware/giraffe/",
+	"title": "Giraffe",
+	"tags": [],
+	"description": "",
+	"content": " It passes through the signals to the existing driver assistance system. Or turn the switches off and block the signals. It\u0026#x27;s like unplugging, but better. Or proxy the signals through your panda. When used with a chffr panda you get more signals and access to read from your car\u0026#x27;s radar.\nAlso has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.\nHardware Versions  Giraffe (Toyota) Giraffe (Honda Bosch) Giraffe (Honda Nidec) Giraffe (Tesla) Giraffe (Kia) Giraffe (Hyundai)  "
+},
+{
+	"uri": "https://docs.opc.ai/hardware/giraffe/giraffe-honda-bosch/",
+	"title": "Giraffe (Honda Bosch)",
+	"tags": [],
+	"description": "",
+	"content": " It passes through the signals to the existing driver assistance system. Or turn the switches off and block the signals. It\u0026#x27;s like unplugging, but better. Or proxy the signals through your panda. When used with a chffr panda you get more signals and access to read from your car\u0026#x27;s radar.\nAlso has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.\nThis giraffe is designed for new model year Honda/Acura cars that have Honda Sensing/AcuraWatch Plus and Bosch hardware, which is found on the following cars Honda Civic Hatchback, 2017+ Honda CR-V, and 2018+ Honda Accord It may also work on other cars with the same connector. (Honda Bosch ships in 2-8 weeks)\nWhere to buy The Giraffe (Honda Bosch) is available for purchase at the following places:\n https://comma.ai/shop/products/giraffe/  How to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nWe have found the following links relevant to building the Giraffe (Honda Bosch):\n https://github.com/commaai/neo  Compatible Vehicles These vehicles are known to be compatible with the Giraffe (Honda Bosch) but many other vehicles using similar hardware may also work.\n 2018 Honda Accord Hybrid 2018 Honda Accord 2017 Honda Civic Hatchback 2017 Honda CR-V 2018 Honda CR-V  "
+},
+{
+	"uri": "https://docs.opc.ai/hardware/giraffe/giraffe-honda-nidec/",
+	"title": "Giraffe (Honda Nidec)",
+	"tags": [],
+	"description": "",
+	"content": " It passes through the signals to the existing driver assistance system. Or turn the switches off and block the signals. It\u0026#x27;s like unplugging, but better. Or proxy the signals through your panda. When used with a chffr panda you get more signals and access to read from your car\u0026#x27;s radar.\nAlso has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.\nThis giraffe is designed for new model year Honda/Acura cars that have Honda Sensing/AcuraWatch Plus and Nidec hardware, which is found on the following cars; Honda Civic (non hatchback), 2015\u0026frasl;16 Honda CR-V, Honda Odyssey (connector is upside down), Honda Pilot, Honda Ridgeline, Acura ILX, Acura RDX. It may also work on other cars with the same connector.\nWhere to buy The Giraffe (Honda Nidec) is available for purchase at the following places:\n https://comma.ai/shop/products/giraffe/  How to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nWe have found the following links relevant to building the Giraffe (Honda Nidec):\n https://github.com/commaai/neo  Compatible Vehicles These vehicles are known to be compatible with the Giraffe (Honda Nidec) but many other vehicles using similar hardware may also work.\n 2016 Honda Civic 2017 Honda Civic 2018 Honda Civic 2015 Honda CR-V Touring 2016 Honda CR-V Touring 2017 Honda Pilot 2017 Honda Ridgeline 2016 Honda Ridgeline 2016 Acura ILX 2017 Acura ILX 2018 Acura RDX 2016 Honda Pilot 2018 Honda Pilot 2018 Honda Ridgeline  "
+},
+{
+	"uri": "https://docs.opc.ai/hardware/giraffe/giraffe-hyundai/",
+	"title": "Giraffe (Hyundai)",
+	"tags": [],
+	"description": "",
+	"content": " It passes through the signals to the existing driver assistance system. Or turn the switches off and block the signals. It\u0026#x27;s like unplugging, but better. Or proxy the signals through your panda. When used with a chffr panda you get more signals and access to read from your car\u0026#x27;s radar.\nAlso has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.\nThis giraffe is custom built by community members for Hyundai models matching similar hardware as the 2017 Hyundai Elantra.\nWhere to buy This particular piece of hardware is not currently available for purchase.\nHow to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nWe have found the following links relevant to building the Giraffe (Hyundai):\n https://i.imgur.com/avG8Kwu.jpg  Compatible Vehicles These vehicles are known to be compatible with the Giraffe (Hyundai) but many other vehicles using similar hardware may also work.\n 2017 Hyundai Elantra  "
+},
+{
+	"uri": "https://docs.opc.ai/hardware/giraffe/giraffe-kia/",
+	"title": "Giraffe (Kia)",
+	"tags": [],
+	"description": "",
+	"content": " It passes through the signals to the existing driver assistance system. Or turn the switches off and block the signals. It\u0026#x27;s like unplugging, but better. Or proxy the signals through your panda. When used with a chffr panda you get more signals and access to read from your car\u0026#x27;s radar.\nAlso has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.\nThis giraffe is custom built by community members for Kia models matching similar hardware as the 2018 Kia Sorento and 2018 Kia Stinger.\nWhere to buy This particular piece of hardware is not currently available for purchase.\nHow to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nWe have found the following links relevant to building the Giraffe (Kia):\n https://i.imgur.com/6SphWf6.jpg  Compatible Vehicles These vehicles are known to be compatible with the Giraffe (Kia) but many other vehicles using similar hardware may also work.\n 2018 Kia Stinger 2018 Kia Sorento  "
+},
+{
+	"uri": "https://docs.opc.ai/hardware/giraffe/giraffe-tesla/",
+	"title": "Giraffe (Tesla)",
+	"tags": [],
+	"description": "",
+	"content": " It passes through the signals to the existing driver assistance system. Or turn the switches off and block the signals. It\u0026#x27;s like unplugging, but better. Or proxy the signals through your panda. When used with a chffr panda you get more signals and access to read from your car\u0026#x27;s radar.\nAlso has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.\nThis giraffe is custom built by community members for the Tesla Pre-AutoPilot Model S made between 2012-2014\nWhere to buy The Giraffe (Tesla) is available for purchase at the following places:\n https://oshpark.com/shared_projects/VC2dWAxy  This requires some assembly.\nHow to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nWe have found the following links relevant to building the Giraffe (Tesla):\n https://github.com/jeankalud/neo/tree/tesla_giraffe/giraffe/tesla  Compatible Vehicles These vehicles are known to be compatible with the Giraffe (Tesla) but many other vehicles using similar hardware may also work.\n 2012 Tesla Model S 2013 Tesla Model S 2014 Tesla Model S  Additional Notes This one does not come assembled. The order would be for the board itself so you\u0026#x27;ll have to learn how to solder and assemble it.\n"
+},
+{
+	"uri": "https://docs.opc.ai/hardware/giraffe/giraffe-toyota/",
+	"title": "Giraffe (Toyota)",
+	"tags": [],
+	"description": "",
+	"content": " It passes through the signals to the existing driver assistance system. Or turn the switches off and block the signals. It\u0026#x27;s like unplugging, but better. Or proxy the signals through your panda. When used with a chffr panda you get more signals and access to read from your car\u0026#x27;s radar.\nAlso has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.\nThis giraffe is designed for new model year Toyota cars with TSS-P, which is found on the following cars; Toyota RAV-4, Toyota RAV-4 Hybrid, Toyota Prius, Toyota, Corolla, and Lexus RX Hybrid. It may also work on other cars with the same connector, probably all TSS-P Toyota. Verified fit on 2017 models.\nWhere to buy The Giraffe (Toyota) is available for purchase at the following places:\n https://comma.ai/shop/products/giraffe/  How to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nWe have found the following links relevant to building the Giraffe (Toyota):\n https://github.com/commaai/neo  Compatible Vehicles These vehicles are known to be compatible with the Giraffe (Toyota) but many other vehicles using similar hardware may also work.\n 2018 Toyota C-HR XLE 2017 Toyota Corolla 2018 Toyota Corolla 2016 Toyota Prius 2017 Toyota Prius 2018 Toyota Prius Prime 2017 Toyota Prius Prime 2017 Toyota Prius Prime (TW) 2018 Toyota Prius Prime 2016 Toyota RAV4 2017 Toyota RAV4 2018 Toyota RAV4 2016 Toyota RAV4 Hybrid 2017 Toyota RAV4 Hybrid 2018 Toyota RAV4 Hybrid 2018 Toyota RAV4 Hybrid (DE) 2018 Toyota Camry LE Hybrid 2017 Lexus RX Hybrid 2018 Lexus RX Hybrid  "
+},
+{
+	"uri": "https://docs.opc.ai/hardware/",
+	"title": "Hardware",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/",
+	"title": "Honda",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda vehicles including the  and  and  and  and  and  and  and  and  others.",
+	"content": " Openpilot is compatible with some Honda model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Honda\u0026rsquo;s with the community, checkout the #honda channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md) [](.//.md) [](.//.md) [](.//.md) [](.//.md) [](.//.md) [](.//.md) [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/accord/",
+	"title": "Honda Accord",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda Accord vehicles.",
+	"content": " Openpilot is compatible with some Accord model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Accord\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Honda Accord 2018 Honda Accord Hybrid  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/cr-v/",
+	"title": "Honda CR-V",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda CR-V vehicles.",
+	"content": " Openpilot is compatible with some CR-V model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about CR-V\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2017 Honda CR-V 2018 Honda CR-V 2015 Honda CR-V Touring 2016 Honda CR-V Touring  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/civic/",
+	"title": "Honda Civic",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda Civic vehicles.",
+	"content": " Openpilot is compatible with some Civic model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Civic\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2016 Honda Civic 2017 Honda Civic 2018 Honda Civic 2017 Honda Civic Hatchback  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/clarity/",
+	"title": "Honda Clarity",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda Clarity vehicles.",
+	"content": " Openpilot is compatible with some Clarity model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Clarity\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Honda Clarity  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/fit/",
+	"title": "Honda Fit",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda Fit vehicles.",
+	"content": " Openpilot is compatible with some Fit model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Fit\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Honda Fit  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/odyssey/",
+	"title": "Honda Odyssey",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda Odyssey vehicles.",
+	"content": " Openpilot is compatible with some Odyssey model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Odyssey\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Honda Odyssey  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/pilot/",
+	"title": "Honda Pilot",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda Pilot vehicles.",
+	"content": " Openpilot is compatible with some Pilot model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Pilot\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2016 Honda Pilot 2017 Honda Pilot 2018 Honda Pilot  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/honda/ridgeline/",
+	"title": "Honda Ridgeline",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Honda Ridgeline vehicles.",
+	"content": " Openpilot is compatible with some Ridgeline model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Ridgeline\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2016 Honda Ridgeline 2017 Honda Ridgeline 2018 Honda Ridgeline  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/hyundai/",
+	"title": "Hyundai",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Hyundai vehicles including the  and  others.",
+	"content": " Openpilot is compatible with some Hyundai model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Hyundai\u0026rsquo;s with the community, checkout the #hyundai channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/hyundai/elantra/",
+	"title": "Hyundai Elantra",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Hyundai Elantra vehicles.",
+	"content": " Openpilot is compatible with some Elantra model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Elantra\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2017 Hyundai Elantra  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/kia/",
+	"title": "Kia",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Kia vehicles including the  and  and  others.",
+	"content": " Openpilot is compatible with some Kia model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Kia\u0026rsquo;s with the community, checkout the #hyundai channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md) [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/kia/sorento/",
+	"title": "Kia Sorento",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Kia Sorento vehicles.",
+	"content": " Openpilot is compatible with some Sorento model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Sorento\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Kia Sorento  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/kia/stinger/",
+	"title": "Kia Stinger",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Kia Stinger vehicles.",
+	"content": " Openpilot is compatible with some Stinger model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Stinger\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Kia Stinger  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/lexus/",
+	"title": "Lexus",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Lexus vehicles including the  and  others.",
+	"content": " Openpilot is compatible with some Lexus model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Lexus\u0026rsquo;s with the community, checkout the #toyota channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/lexus/rx/",
+	"title": "Lexus RX",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Lexus RX vehicles.",
+	"content": " Openpilot is compatible with some RX model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about RX\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2017 Lexus RX Hybrid 2018 Lexus RX Hybrid  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/",
+	"title": "Openpilot",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://docs.opc.ai/hardware/panda/",
+	"title": "Panda",
+	"tags": [],
+	"description": "",
+	"content": " panda is the nicest universal car interface ever. It allows you full access to the many communication buses of your car from a computer or a phone.\npanda+cabana (https://cabana.comma.ai/) is like a fitness tracker for your car. Track your RPMs, MPG, cornering G-force, battery life, and so much more.\nHardware Versions  Panda (White) Panda (Grey)  "
+},
+{
+	"uri": "https://docs.opc.ai/hardware/panda/panda-grey/",
+	"title": "Panda (Grey)",
+	"tags": [],
+	"description": "",
+	"content": " panda is the nicest universal car interface ever. It allows you full access to the many communication buses of your car from a computer or a phone.\npanda+cabana (https://cabana.comma.ai/) is like a fitness tracker for your car. Track your RPMs, MPG, cornering G-force, battery life, and so much more.\nThis is the Grey Panda. It has USB ONLY connectivity. It is the recommended Panda now a days for using with Openpilot since it has GPS and will help aid in building HD maps which will help your car navigate better and see cool things like exact locations of street lights and stop signs.\npanda is designed for cars 2008 and newer. panda firmware is released under the MIT license.\nWhere to buy The Panda (Grey) is available for purchase at the following places:\n https://www.amazon.com/chffr-panda-OBD-II-Interface/dp/B07D6Y3GN2/  How to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nHowever, we haven\u0026rsquo;t found plans for the Panda (Grey) but will post them if / when we can make them available.\nCompatible Vehicles This hardware is known to generally work with all fairly modern vehicles.\n"
+},
+{
+	"uri": "https://docs.opc.ai/hardware/panda/panda-white/",
+	"title": "Panda (White)",
+	"tags": [],
+	"description": "",
+	"content": " panda is the nicest universal car interface ever. It allows you full access to the many communication buses of your car from a computer or a phone.\npanda+cabana (https://cabana.comma.ai/) is like a fitness tracker for your car. Track your RPMs, MPG, cornering G-force, battery life, and so much more.\nThis is the White Panda. It has USB and WiFi connectivity. It is not necessarily the recommended Panda now a days for using with Openpilot.\nIt works great for interfacing with your vehicle and hacking against it but it is not the best experience for openpilot seeking users.\nKeep this in mind.\npanda is designed for cars 2008 and newer. panda firmware is released under the MIT license.\nWhere to buy The Panda (White) is available for purchase at the following places:\n https://www.amazon.com/chffr-panda-OBD-II-Interface/dp/B07D6Y3GN2/  How to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nHowever, we haven\u0026rsquo;t found plans for the Panda (White) but will post them if / when we can make them available.\nCompatible Vehicles This hardware is known to generally work with all fairly modern vehicles.\n"
+},
+{
+	"uri": "https://docs.opc.ai/hardware/upgrade/pedal-interceptor/",
+	"title": "Pedal Interceptor",
+	"tags": [],
+	"description": "",
+	"content": " Comma Pedal is used to provide stop-and-go capability to some of the openpilot-supported cars that don\u0026#x27;t currently support stop-and-go. NOTE: The Comma Pedal is not officially supported by Comma.ai, Inc.\nWhere to buy This particular piece of hardware is not currently available for purchase.\nHow to build Most hardware related to Openpilot are Open Source. We all love Open Source Hardware and there\u0026rsquo;s ton of it within the comma and openpilot communities.\nWe have found the following links relevant to building the Pedal Interceptor:\n https://medium.com/@jfrux/comma-pedal-building-with-macrofab-6328bea791e8 https://medium.com/@jfrux/comma-pedal-installing-in-your-vehicle-5f3592eff9ed  Compatible Vehicles These vehicles are known to be compatible with the Pedal Interceptor but many other vehicles using similar hardware may also work.\n 2016 Acura ILX 2018 Acura RDX 2017 Acura ILX 2018 Honda Odyssey 2016 Honda Pilot 2017 Honda Pilot 2018 Honda Pilot 2016 Honda Ridgeline 2017 Honda Ridgeline 2018 Honda Ridgeline  Additional Notes This is not supported by Comma.ai, Inc.\n"
+},
+{
+	"uri": "https://docs.opc.ai/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/tesla/",
+	"title": "Tesla",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Tesla vehicles including the  and  others.",
+	"content": " Openpilot is compatible with some Tesla model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Tesla\u0026rsquo;s with the community, checkout the #tesla channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/tesla/model-s/",
+	"title": "Tesla Model S",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Tesla Model S vehicles.",
+	"content": " Openpilot is compatible with some Model S model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Model S\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2012 Tesla Model S 2013 Tesla Model S 2014 Tesla Model S  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/",
+	"title": "Toyota",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Toyota vehicles including the  and  and  and  and  and  others.",
+	"content": " Openpilot is compatible with some Toyota model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to always support as many vehicles as possible.\nTo chat about Toyota\u0026rsquo;s with the community, checkout the #toyota channel in the Comma Slack.\nCompatible models This is the current list of models being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n [](.//.md) [](.//.md) [](.//.md) [](.//.md) [](.//.md)  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/c-hr/",
+	"title": "Toyota C-HR",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Toyota C-HR vehicles.",
+	"content": " Openpilot is compatible with some C-HR model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about C-HR\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Toyota C-HR XLE  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/camry/",
+	"title": "Toyota Camry",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Toyota Camry vehicles.",
+	"content": " Openpilot is compatible with some Camry model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Camry\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2018 Toyota Camry LE Hybrid  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/corolla/",
+	"title": "Toyota Corolla",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Toyota Corolla vehicles.",
+	"content": " Openpilot is compatible with some Corolla model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Corolla\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2017 Toyota Corolla 2018 Toyota Corolla  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/prius/",
+	"title": "Toyota Prius",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Toyota Prius vehicles.",
+	"content": " Openpilot is compatible with some Prius model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about Prius\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2016 Toyota Prius 2017 Toyota Prius 2018 Toyota Prius Prime 2017 Toyota Prius Prime 2017 Toyota Prius Prime (TW) 2018 Toyota Prius Prime  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/toyota/rav4/",
+	"title": "Toyota RAV4",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on Toyota RAV4 vehicles.",
+	"content": " Openpilot is compatible with some RAV4 model(s) so feel free to browse the support pages for these models below for additional specifics. The goal is to support as many vehicles as possible.\nTo chat about RAV4\u0026rsquo;s with the community, checkout the Comma Slack.\nCompatible Years This is the current list of trims being tested and/or actively supported by either community members or Comma.ai. Varying levels of support / testing are being done on the listed models so please review them thoroughly.\n 2016 Toyota RAV4 2017 Toyota RAV4 2018 Toyota RAV4 2016 Toyota RAV4 Hybrid 2017 Toyota RAV4 Hybrid 2018 Toyota RAV4 Hybrid (DE) 2018 Toyota RAV4 Hybrid  How to add support for a vehicle If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the Comma Slack. There will also be some great info on porting models in Development Guides.\n"
+},
+{
+	"uri": "https://docs.opc.ai/hardware/upgrade/",
+	"title": "Upgrade",
+	"tags": [],
+	"description": "",
+	"content": " Hardware Versions  Pedal Interceptor  "
+},
+{
+	"uri": "https://docs.opc.ai/vehicles/",
+	"title": "Vehicles",
+	"tags": [],
+	"description": "Information about running Comma.ai Openpilot on many existing auto makers including but not limited to  and many more.",
+	"content": " The goal is to always support as many vehicles as possible.\nOpenpilot is compatible with several vehicle makes and models already so these are very exciting times.\nMakes This is the current list of makes being tested and/or actively supported by either community members or Comma.ai. Varying levels of support and testing are being done on them so please follow the links to determine how far along they are.\nNotes on Ford Vehicles There is a port of openpilot for Ford, but the steering has a 10 second cutout limitation that makes it virtually unusable.\nUnless there is some real interest in hacking on Ford there won\u0026rsquo;t be solid support for awhile.\nNotes on Flexray Vehicles Unfortunately, vehicle makes that use FlexRay are unlikely to be supported any time soon.\nThese makes include (but are not limited to):\n Audi BMW Mercedes Volvo  How to add support for a vehicle If you own an vehicle not currently listed but are interested in discussing porting it to openpilot, join us in the NEW openpilot community chat support system and the always popular Comma.ai Slack if you prefer it.\nThere will be some great info on porting vehicles in Development Guides.\nIf your car has adaptive cruise control and lane keep assist, you are in luck. Using a panda and cabana, you can understand how to make your car drive by wire.\nComma.ai, Inc. wrote a porting guide for Toyota that might help you after you have the basics figured out.\n"
+}]

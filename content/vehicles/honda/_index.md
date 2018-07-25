@@ -19,14 +19,15 @@ To chat about Honda's with the community, checkout the [#honda](slack://channel?
 
 This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [](.//.md)
-* [](.//.md)
-* [](.//.md)
-* [](.//.md)
-* [](.//.md)
-* [](.//.md)
-* [](.//.md)
-* [](.//.md)
+
+* [](/vehicles//)
+* [](/vehicles//)
+* [](/vehicles//)
+* [](/vehicles//)
+* [](/vehicles//)
+* [](/vehicles//)
+* [](/vehicles//)
+* [](/vehicles//)
 
 ## How to add support for a vehicle
 

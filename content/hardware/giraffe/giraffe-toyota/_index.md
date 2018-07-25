@@ -3,9 +3,16 @@ id: giraffe-toyota
 title: Giraffe (Toyota)
 ---
 
-It passes through the signals to the existing driver assistance system. Or turn the switches off and block the signals. It&#x27;s like unplugging, but better. Or proxy the signals through your panda. When used with a chffr panda you get more signals and access to read from your car&#x27;s radar.
+The Giraffe is responsible for passing through signals to your vehicles existing driver assistance system. 
 
-Also has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.
+It features small toggle switches that allow you to turn the individual pass-throughs on or off to block the signals.  This saves you from having to physically unplug or detach anything from the vehicle to resume using the stock system. It&#x27;s like unplugging, but better. 
+
+It also allows you to optionally proxy the signals through to your [Panda](/hardware/panda/).  When used with a [White Panda](/hardware/panda/panda-white/) you&#x27;re able to get more signals and access to read from your car&#x27;s radar.
+
+It also has a NEO compatible fake ethernet port with access to CAN1, CAN2, started detect, +12v, and ground.
+
+!! A note on the FAKE ethernet port:
+!! DO NOT use this to connect to your laptop or network.
 
 This giraffe is designed for new model year Toyota cars with TSS-P, which is found on the following cars;  Toyota RAV-4, Toyota RAV-4 Hybrid, Toyota Prius, Toyota, Corolla, and Lexus RX Hybrid. It may also work on other cars with the same connector, probably all TSS-P Toyota. Verified fit on 2017 models.
 
