@@ -1,0 +1,4 @@
+baseURL = "https://docs.opc.ai/"
+languageCode = "en-us"
+title = "Openpilot Documentation"
+theme = "learn"
