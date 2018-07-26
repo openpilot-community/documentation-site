@@ -29,11 +29,9 @@ However, we haven't found plans for the EON but will post them if / when we can 
 This hardware is known to generally work with all fairly modern vehicles.
 
 
-## Videos
 
-{{< figure target="_blank" src="https://i.ytimg.com/vi/WfGNIcFLRIE/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;WfGNIcFLRIE" title="Comma.ai EON Unboxing" height="141" width="250" class="video-image" >}}
-
-{{< figure target="_blank" src="https://i.ytimg.com/vi/AerjS7PTNYs/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;AerjS7PTNYs" title="George &quot;Geohot&quot; Hotz Presents the Comma One at Disrupt SF" height="141" width="250" class="video-image" >}}
-
-{{< figure target="_blank" src="https://i.ytimg.com/vi/Z5VY5FzgNt4/mqdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;Z5VY5FzgNt4" title="Installing EON Self Driving Car System by Comma.ai" height="141" width="250" class="video-image" >}}
-
+        ## Videos
+        {{< figure target="_blank" src="https://i.ytimg.com/vi/WfGNIcFLRIE/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;WfGNIcFLRIE" title="Comma.ai EON Unboxing" height="141" width="250" class="video-image" >}}
+        {{< figure target="_blank" src="https://i.ytimg.com/vi/AerjS7PTNYs/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;AerjS7PTNYs" title="George &quot;Geohot&quot; Hotz Presents the Comma One at Disrupt SF" height="141" width="250" class="video-image" >}}
+        {{< figure target="_blank" src="https://i.ytimg.com/vi/Z5VY5FzgNt4/mqdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;Z5VY5FzgNt4" title="Installing EON Self Driving Car System by Comma.ai" height="141" width="250" class="video-image" >}}
+      

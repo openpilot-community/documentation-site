@@ -60,9 +60,8 @@ These vehicles are known to be compatible with the Toyota Giraffe but comparable
 * [2018 Lexus RX Hybrid](./lexus/giraffe-toyota/2018-lexus-rx-hybrid.md)
 
 
-## Videos
 
-{{< figure target="_blank" src="https://i.ytimg.com/vi/eyIB-e9ScMQ/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;eyIB-e9ScMQ" title="Comma.ai - Giraffe Unboxing and Installation" height="141" width="250" class="video-image" >}}
-
-{{< figure target="_blank" src="https://i.ytimg.com/vi/_oX3ec45yew/mqdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;_oX3ec45yew" title="comma ai Our first Lexus, the Lexus RX!" height="141" width="250" class="video-image" >}}
-
+        ## Videos
+        {{< figure target="_blank" src="https://i.ytimg.com/vi/eyIB-e9ScMQ/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;eyIB-e9ScMQ" title="Comma.ai - Giraffe Unboxing and Installation" height="141" width="250" class="video-image" >}}
+        {{< figure target="_blank" src="https://i.ytimg.com/vi/_oX3ec45yew/mqdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;_oX3ec45yew" title="comma ai Our first Lexus, the Lexus RX!" height="141" width="250" class="video-image" >}}
+      

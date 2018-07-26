@@ -4,7 +4,7 @@ title: Giraffe (Tesla)
 ---
 
 This giraffe is custom built by community members for the Tesla Pre-AutoPilot Model S made between 2012-2014
-{{< figure src="" width="250" class="profile-image" >}}
+{{< figure src="https://dl.airtable.com/XYMDKznSlOqUhYfgyNww_image%20(1).png" width="250" class="profile-image" >}}
 
 ## What is a Giraffe
 The Giraffe is responsible for passing through signals to your vehicles existing driver assistance system. 
@@ -47,7 +47,7 @@ These vehicles are known to be compatible with the Tesla Giraffe but comparable 
 ## Additional Notes
 This one does not come assembled.  The order would be for the board itself so you&#x27;ll have to learn how to solder and assemble it.
 
-## Videos
 
-{{< figure target="_blank" src="https://i.ytimg.com/vi/oI85EyIQ_xA/maxresdefault.jpg" link="https://youtu.be/oI85EyIQ_xA" title="First Tesla, back country (do not do this) road - OpenPilot 0.5" height="141" width="250" class="video-image" >}}
-
+        ## Videos
+        {{< figure target="_blank" src="https://i.ytimg.com/vi/oI85EyIQ_xA/maxresdefault.jpg" link="https://youtu.be/oI85EyIQ_xA" title="First Tesla, back country (do not do this) road - OpenPilot 0.5" height="141" width="250" class="video-image" >}}
+      

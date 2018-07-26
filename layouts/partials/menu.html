@@ -1,0 +1,82 @@
+<nav id="sidebar" class="col-md-2 d-none d-md-block sidebar {{if $.Site.Params.showVisitedLinks }}showVisitedLinks{{end}}">
+
+{{ $currentNode := . }}
+{{ $showvisitedlinks := .Site.Params.showVisitedLinks }}
+  <a class="navbar-brand" href="/">{{ partial "logo.html" . }}</a>
+  <input class="form-control form-control-dark w-100" data-search-input id="search-by" type="text" placeholder="Type to search...">
+  <ul class="nav flex-column">
+
+      {{if eq .Site.Params.ordersectionsby "title"}}  
+        {{range .Site.Home.Sections.ByTitle}}
+        {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks}}
+        {{end}}
+      {{else}}
+        {{range .Site.Home.Sections.ByWeight}}
+        {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks}}
+        {{end}}
+      {{end}} 
+  </ul>
+
+  {{ partial "menu-footer.html" . }}
+</nav>
+
+<!-- templates -->
+{{ define "section-tree-nav" }}
+{{ $showvisitedlinks := .showvisitedlinks }}
+{{ $currentNode := .currentnode }}
+ {{with .sect}}
+  {{if .IsSection}}
+    {{safeHTML .Params.head}}
+    <li data-nav-id="{{.URL}}" title="{{.Title}}" class="nav-item dd-item 
+        {{if .IsAncestor $currentNode }}parent{{end}}
+        {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
+        {{if .Params.alwaysopen}}parent{{end}}
+        ">
+        <a href="{{.RelPermalink}}" class="nav-link">
+          <span>
+            {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}
+            {{ if $showvisitedlinks}}
+              <i class="fa fa-check read-icon"></i>
+            {{ end }}
+          </span>
+        </a>
+      {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
+      {{ if ne $numberOfPages 0 }}
+        <ul class="nav flex-column">
+          {{ $currentNode.Scratch.Set "pages" .Pages }}
+          {{ if .Sections}}
+            {{ $currentNode.Scratch.Set "pages" (.Pages | union .Sections) }}
+          {{end}}
+          {{ $pages := ($currentNode.Scratch.Get "pages") }}
+          
+        {{if eq .Site.Params.ordersectionsby "title"}}  
+          {{ range $pages.ByTitle }}
+            {{ if and .Params.hidden (not $.showhidden) }} 
+            {{else}}
+            {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks }}
+            {{end}}
+          {{ end }}
+        {{else}}
+          {{ range $pages.ByWeight }}
+            {{ if and .Params.hidden (not $.showhidden) }} 
+            {{else}}
+            {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks }}
+            {{end}}
+          {{ end }}
+        {{end}}
+        </ul>
+      {{ end }}        
+    </li>
+  {{else}}
+    {{ if not .Params.Hidden }}
+      <li data-nav-id="{{.URL}}" title="{{.Title}}" class="dd-item {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}">
+        <a href="{{ .RelPermalink}}">
+        {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}
+        {{ if $showvisitedlinks}}<i class="fa fa-check read-icon"></i>{{end}}
+        </a>
+    </li>
+     {{ end }}
+  {{end}}
+ {{ end }}
+{{ end }}
+

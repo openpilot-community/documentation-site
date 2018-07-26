@@ -39,3 +39,6 @@ These vehicles are known to be compatible with the Hyundai Giraffe but comparabl
 * [2017 Hyundai Elantra](./hyundai/giraffe-hyundai/2017-hyundai-elantra.md)
 
 
+
+        ## Videos
+      

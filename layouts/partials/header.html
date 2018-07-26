@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ .Page.Language | default "en" }}" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    {{ .Hugo.Generator }}
+    {{ partial "meta.html" . }}
+    {{ partial "favicon.html" . }}
+    <title>{{ .Title }} :: {{ .Site.Title }}</title>
+    
+    {{ $assetBusting := not .Site.Params.disableAssetsBusting }}
+    
+    {{with .Site.Params.themeVariant}}
+      {{ $cssOpts := (dict "enableSourceMap" true ) }}
+      {{ $style := resources.Get "css/main.scss" | toCSS $cssOpts | fingerprint }}
+      <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{end}}
+
+
+    <script src="{{"js/jquery-2.x.min.js"| relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
+    
+    <style type="text/css">
+      :root #header + #content > #left > #rlblock_left{ 
+          display:none !important;
+      }
+      {{ if .Site.Params.disableInlineCopyToClipBoard }}
+        :not(pre) > code + span.copy-to-clipboard {
+            display: none;
+        }
+      {{ end }}
+    </style>
+    {{ partial "custom-header.html" . }}
+  </head>
+  <body class="" data-url="{{ .RelPermalink }}">
+    <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+      <a href="#" id="sidebar-toggle" data-sidebar-toggle="" class="navbar-toggler" >
+        <i class="fa fa-bars"></i>
+      </a>
+    </nav>
+
+    <script type="text/javascript" src="{{"js/lunr.min.js" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script type="text/javascript" src="{{"js/auto-complete.js" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <script type="text/javascript">
+    {{ if .Site.IsMultiLingual }}
+    var baseurl = "{{.Site.LanguagePrefix | relURL }}";
+    {{ else }}
+    var baseurl = '{{ "" | relURL }}';
+    {{ end }}
+    </script>
+    <script type="text/javascript" src="{{"js/search.js" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
+    <div class="container-fluid">
+      <div class="row">
+        {{ partial "menu.html" . }}
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+        <section id="body">
+          <div id="overlay"></div>
+          <div class="padding highlightable">
+          {{ if .Params.chapter }}
+            <div id="chapter">
+          {{ end }}
+          <div id="body-inner">
+            {{if and (not .IsHome) (not .Params.chapter) }}
+              <h1>{{.Title}}</h1>
+            {{end}}
+
+<!-- DEFINITIONS -->
+{{define "breadcrumb"}}
+  {{$parent := .page.Parent }}
+  {{ if $parent }}
+    {{ $value := (printf "<li class='breadcrumb-item'><a href='%s'>%s</a></li><li class='breadcrumb-item'>%s</li>" $parent.URL $parent.Title .value) }}
+    {{ template "breadcrumb" dict "page" $parent "value" $value }}
+  {{else}}
+    {{.value|safeHTML}}
+  {{end}}
+{{end}}

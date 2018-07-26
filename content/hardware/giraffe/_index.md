@@ -14,17 +14,17 @@ It also has a NEO compatible fake ethernet port with access to CAN1, CAN2, start
 !! A note on the FAKE ethernet port:
 !! DO NOT use this to connect to your laptop or network.
 
-## Hardware Versions
+## Types of Giraffes
 
-{{< figure target="_blank" src="https://dl.airtable.com/Jwc7tDeWTR61h39peddF_image.png" link="/hardware/giraffe/giraffe-toyota/" title="Giraffe (Toyota)" height="141" width="250" class="video-image" >}}
+{{< figure src="https://dl.airtable.com/Jwc7tDeWTR61h39peddF_image.png" link="/hardware/giraffe/giraffe-toyota/" title="Giraffe (Toyota)" height="141" width="250" class="item-image" >}}
 
-{{< figure target="_blank" src="https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png" link="/hardware/giraffe/giraffe-honda-bosch/" title="Giraffe (Honda Bosch)" height="141" width="250" class="video-image" >}}
+{{< figure src="https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png" link="/hardware/giraffe/giraffe-honda-bosch/" title="Giraffe (Honda Bosch)" height="141" width="250" class="item-image" >}}
 
-{{< figure target="_blank" src="https://dl.airtable.com/cJCXUPVvRKC7JYscjuxy_image.png" link="/hardware/giraffe/giraffe-honda-nidec/" title="Giraffe (Honda Nidec)" height="141" width="250" class="video-image" >}}
+{{< figure src="https://dl.airtable.com/cJCXUPVvRKC7JYscjuxy_image.png" link="/hardware/giraffe/giraffe-honda-nidec/" title="Giraffe (Honda Nidec)" height="141" width="250" class="item-image" >}}
 
-{{< figure target="_blank" src="" link="/hardware/giraffe/giraffe-tesla/" title="Giraffe (Tesla)" height="141" width="250" class="video-image" >}}
+{{< figure src="https://dl.airtable.com/XYMDKznSlOqUhYfgyNww_image%20(1).png" link="/hardware/giraffe/giraffe-tesla/" title="Giraffe (Tesla)" height="141" width="250" class="item-image" >}}
 
-{{< figure target="_blank" src="" link="/hardware/giraffe/giraffe-kia/" title="Giraffe (Kia)" height="141" width="250" class="video-image" >}}
+{{< figure src="https://dl.airtable.com/Pcywo3HMQ6Oz6CC0ibxP_Image%20from%20iOS%20(16).jpg" link="/hardware/giraffe/giraffe-kia/" title="Giraffe (Kia)" height="141" width="250" class="item-image" >}}
 
-{{< figure target="_blank" src="https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg" link="/hardware/giraffe/giraffe-hyundai/" title="Giraffe (Hyundai)" height="141" width="250" class="video-image" >}}
+{{< figure src="https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg" link="/hardware/giraffe/giraffe-hyundai/" title="Giraffe (Hyundai)" height="141" width="250" class="item-image" >}}
 

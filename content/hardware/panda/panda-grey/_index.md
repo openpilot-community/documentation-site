@@ -34,7 +34,7 @@ However, we haven't found plans for the Grey Panda but will post them if / when 
 This hardware is known to generally work with all fairly modern vehicles.
 
 
-## Videos
 
-{{< figure target="_blank" src="https://i.ytimg.com/vi/dypvyXNbsDs/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;dypvyXNbsDs" title="Comma.ai - Grey Panda Unboxing and Installation" height="141" width="250" class="video-image" >}}
-
+        ## Videos
+        {{< figure target="_blank" src="https://i.ytimg.com/vi/dypvyXNbsDs/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;dypvyXNbsDs" title="Comma.ai - Grey Panda Unboxing and Installation" height="141" width="250" class="video-image" >}}
+      
