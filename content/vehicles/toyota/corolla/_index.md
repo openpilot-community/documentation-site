@@ -13,8 +13,8 @@ To chat about Corolla's with the community, checkout the  [Comma Slack](https://
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2017 Toyota Corolla](./toyota//2017-toyota-corolla.md)
-* [2018 Toyota Corolla](./toyota//2018-toyota-corolla.md)
+* [2017 Toyota Corolla](/vehicles/toyota/corolla/2017-toyota-corolla/)
+* [2018 Toyota Corolla](/vehicles/toyota/corolla/2018-toyota-corolla/)
 
 ## How to add support for a vehicle
 

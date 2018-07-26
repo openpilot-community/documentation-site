@@ -13,13 +13,13 @@ To chat about RAV4's with the community, checkout the  [Comma Slack](https://sla
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2016 Toyota RAV4](./toyota//2016-toyota-rav4.md)
-* [2017 Toyota RAV4](./toyota//2017-toyota-rav4.md)
-* [2018 Toyota RAV4](./toyota//2018-toyota-rav4.md)
-* [2016 Toyota RAV4 Hybrid](./toyota//2016-toyota-rav4-hybrid.md)
-* [2017 Toyota RAV4 Hybrid](./toyota//2017-toyota-rav4-hybrid.md)
-* [2018 Toyota RAV4 Hybrid (DE)](./toyota//2018-toyota-rav4-hybrid-de.md)
-* [2018 Toyota RAV4 Hybrid](./toyota//2018-toyota-rav4-hybrid.md)
+* [2016 Toyota RAV4](/vehicles/toyota/rav4/2016-toyota-rav4/)
+* [2017 Toyota RAV4](/vehicles/toyota/rav4/2017-toyota-rav4/)
+* [2018 Toyota RAV4](/vehicles/toyota/rav4/2018-toyota-rav4/)
+* [2016 Toyota RAV4 Hybrid](/vehicles/toyota/rav4/2016-toyota-rav4-hybrid/)
+* [2017 Toyota RAV4 Hybrid](/vehicles/toyota/rav4/2017-toyota-rav4-hybrid/)
+* [2018 Toyota RAV4 Hybrid (DE)](/vehicles/toyota/rav4/2018-toyota-rav4-hybrid-de/)
+* [2018 Toyota RAV4 Hybrid](/vehicles/toyota/rav4/2018-toyota-rav4-hybrid/)
 
 ## How to add support for a vehicle
 

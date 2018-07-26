@@ -13,7 +13,7 @@ To chat about Elantra's with the community, checkout the  [Comma Slack](https://
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2017 Hyundai Elantra](./hyundai//2017-hyundai-elantra.md)
+* [2017 Hyundai Elantra](/vehicles/hyundai/elantra/2017-hyundai-elantra/)
 
 ## How to add support for a vehicle
 

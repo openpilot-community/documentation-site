@@ -19,8 +19,7 @@ To chat about Tesla's with the community, checkout the [#tesla](slack://channel?
 
 This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-
-* [](/vehicles//)
+* [Model S](/vehicles/tesla/model-s/)
 
 ## How to add support for a vehicle
 

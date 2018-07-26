@@ -19,15 +19,14 @@ To chat about Honda's with the community, checkout the [#honda](slack://channel?
 
 This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
+* [Accord](/vehicles/honda/accord/)
+* [Civic](/vehicles/honda/civic/)
+* [Clarity](/vehicles/honda/clarity/)
+* [CR-V](/vehicles/honda/cr-v/)
+* [Fit](/vehicles/honda/fit/)
+* [Odyssey](/vehicles/honda/odyssey/)
+* [Pilot](/vehicles/honda/pilot/)
+* [Ridgeline](/vehicles/honda/ridgeline/)
 
 ## How to add support for a vehicle
 

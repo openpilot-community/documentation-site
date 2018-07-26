@@ -13,9 +13,9 @@ To chat about Ridgeline's with the community, checkout the  [Comma Slack](https:
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2016 Honda Ridgeline](./honda//2016-honda-ridgeline.md)
-* [2017 Honda Ridgeline](./honda//2017-honda-ridgeline.md)
-* [2018 Honda Ridgeline](./honda//2018-honda-ridgeline.md)
+* [2016 Honda Ridgeline](/vehicles/honda/ridgeline/2016-honda-ridgeline/)
+* [2017 Honda Ridgeline](/vehicles/honda/ridgeline/2017-honda-ridgeline/)
+* [2018 Honda Ridgeline](/vehicles/honda/ridgeline/2018-honda-ridgeline/)
 
 ## How to add support for a vehicle
 

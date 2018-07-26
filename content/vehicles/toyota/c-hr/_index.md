@@ -13,7 +13,7 @@ To chat about C-HR's with the community, checkout the  [Comma Slack](https://sla
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2018 Toyota C-HR XLE](./toyota//2018-toyota-c-hr-xle.md)
+* [2018 Toyota C-HR XLE](/vehicles/toyota/c-hr/2018-toyota-c-hr-xle/)
 
 ## How to add support for a vehicle
 

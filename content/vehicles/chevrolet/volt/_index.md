@@ -13,8 +13,8 @@ To chat about Volt's with the community, checkout the  [Comma Slack](https://sla
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2017 Chevrolet Volt](./chevrolet//2017-chevrolet-volt.md)
-* [2018 Chevrolet Volt](./chevrolet//2018-chevrolet-volt.md)
+* [2017 Chevrolet Volt](/vehicles/chevrolet/volt/2017-chevrolet-volt/)
+* [2018 Chevrolet Volt](/vehicles/chevrolet/volt/2018-chevrolet-volt/)
 
 ## How to add support for a vehicle
 

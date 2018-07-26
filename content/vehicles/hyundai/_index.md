@@ -19,8 +19,7 @@ To chat about Hyundai's with the community, checkout the [#hyundai](slack://chan
 
 This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-
-* [](/vehicles//)
+* [Elantra](/vehicles/hyundai/elantra/)
 
 ## How to add support for a vehicle
 

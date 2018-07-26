@@ -13,9 +13,9 @@ To chat about Model S's with the community, checkout the  [Comma Slack](https://
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2012 Tesla Model S](./tesla//2012-tesla-model-s.md)
-* [2013 Tesla Model S](./tesla//2013-tesla-model-s.md)
-* [2014 Tesla Model S](./tesla//2014-tesla-model-s.md)
+* [2012 Tesla Model S](/vehicles/tesla/model-s/2012-tesla-model-s/)
+* [2013 Tesla Model S](/vehicles/tesla/model-s/2013-tesla-model-s/)
+* [2014 Tesla Model S](/vehicles/tesla/model-s/2014-tesla-model-s/)
 
 ## How to add support for a vehicle
 

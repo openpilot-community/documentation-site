@@ -3,6 +3,10 @@ id: giraffe-kia
 title: Giraffe (Kia)
 ---
 
+This giraffe is custom built by community members for Kia models matching similar hardware as the 2018 Kia Sorento and 2018 Kia Stinger.
+{{< figure src="" width="250" class="profile-image" >}}
+
+## What is a Giraffe
 The Giraffe is responsible for passing through signals to your vehicles existing driver assistance system. 
 
 It features small toggle switches that allow you to turn the individual pass-throughs on or off to block the signals.  This saves you from having to physically unplug or detach anything from the vehicle to resume using the stock system. It&#x27;s like unplugging, but better. 
@@ -14,7 +18,6 @@ It also has a NEO compatible fake ethernet port with access to CAN1, CAN2, start
 !! A note on the FAKE ethernet port:
 !! DO NOT use this to connect to your laptop or network.
 
-This giraffe is custom built by community members for Kia models matching similar hardware as the 2018 Kia Sorento and 2018 Kia Stinger.
 
 ## Where to buy
 
@@ -25,14 +28,15 @@ This particular piece of hardware is not currently available for purchase.
 Most hardware related to Openpilot are Open Source.
 We all love Open Source Hardware and there's ton of it within the comma and openpilot communities.
 
-We have found the following links relevant to building the Giraffe (Kia):
+We have found the following links relevant to building the Kia Giraffe:
 
 * [https://i.imgur.com/6SphWf6.jpg](https://i.imgur.com/6SphWf6.jpg)
 
 ## Compatible Vehicles
 
-These vehicles are known to be compatible with the Giraffe (Kia) but many other vehicles using similar hardware may also work.
+These vehicles are known to be compatible with the Kia Giraffe but comparable vehicles with similar hardware may also work.
 
-* [2018 Kia Stinger](./kia//2018-kia-stinger.md)
-* [2018 Kia Sorento](./kia//2018-kia-sorento.md)
+* [2018 Kia Stinger](./kia/giraffe-kia/2018-kia-stinger.md)
+* [2018 Kia Sorento](./kia/giraffe-kia/2018-kia-sorento.md)
+
 

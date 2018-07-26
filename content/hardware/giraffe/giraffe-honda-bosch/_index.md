@@ -3,6 +3,11 @@ id: giraffe-honda-bosch
 title: Giraffe (Honda Bosch)
 ---
 
+This giraffe is designed for new model year Honda/Acura cars that have Honda Sensing/AcuraWatch Plus and Bosch hardware, which is found on the following cars Honda Civic Hatchback, 2017+ Honda CR-V, and 2018+ Honda Accord It may also work on other cars with the same connector. 
+(Honda Bosch ships in 2-8 weeks)
+{{< figure src="https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png" width="250" class="profile-image" >}}
+
+## What is a Giraffe
 The Giraffe is responsible for passing through signals to your vehicles existing driver assistance system. 
 
 It features small toggle switches that allow you to turn the individual pass-throughs on or off to block the signals.  This saves you from having to physically unplug or detach anything from the vehicle to resume using the stock system. It&#x27;s like unplugging, but better. 
@@ -14,12 +19,10 @@ It also has a NEO compatible fake ethernet port with access to CAN1, CAN2, start
 !! A note on the FAKE ethernet port:
 !! DO NOT use this to connect to your laptop or network.
 
-This giraffe is designed for new model year Honda/Acura cars that have Honda Sensing/AcuraWatch Plus and Bosch hardware, which is found on the following cars Honda Civic Hatchback, 2017+ Honda CR-V, and 2018+ Honda Accord It may also work on other cars with the same connector. 
-(Honda Bosch ships in 2-8 weeks)
 
 ## Where to buy
 
-The Giraffe (Honda Bosch) is available for purchase at the following places:
+The Bosch Giraffe is available for purchase at the following places:
 
 * [https://comma.ai/shop/products/giraffe/](https://comma.ai/shop/products/giraffe/)
 
@@ -29,17 +32,18 @@ The Giraffe (Honda Bosch) is available for purchase at the following places:
 Most hardware related to Openpilot are Open Source.
 We all love Open Source Hardware and there's ton of it within the comma and openpilot communities.
 
-We have found the following links relevant to building the Giraffe (Honda Bosch):
+We have found the following links relevant to building the Bosch Giraffe:
 
 * [https://github.com/commaai/neo](https://github.com/commaai/neo)
 
 ## Compatible Vehicles
 
-These vehicles are known to be compatible with the Giraffe (Honda Bosch) but many other vehicles using similar hardware may also work.
+These vehicles are known to be compatible with the Bosch Giraffe but comparable vehicles with similar hardware may also work.
 
-* [2018 Honda Accord Hybrid](./honda//2018-honda-accord-hybrid.md)
-* [2018 Honda Accord](./honda//2018-honda-accord.md)
-* [2017 Honda Civic Hatchback](./honda//2017-honda-civic-hatchback.md)
-* [2017 Honda CR-V](./honda//2017-honda-cr-v.md)
-* [2018 Honda CR-V](./honda//2018-honda-cr-v.md)
+* [2018 Honda Accord Hybrid](./honda/giraffe-honda-bosch/2018-honda-accord-hybrid.md)
+* [2018 Honda Accord](./honda/giraffe-honda-bosch/2018-honda-accord.md)
+* [2017 Honda Civic Hatchback](./honda/giraffe-honda-bosch/2017-honda-civic-hatchback.md)
+* [2017 Honda CR-V](./honda/giraffe-honda-bosch/2017-honda-cr-v.md)
+* [2018 Honda CR-V](./honda/giraffe-honda-bosch/2018-honda-cr-v.md)
+
 

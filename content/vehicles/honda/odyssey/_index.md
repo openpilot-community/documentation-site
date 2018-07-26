@@ -13,7 +13,7 @@ To chat about Odyssey's with the community, checkout the  [Comma Slack](https://
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2018 Honda Odyssey](./honda//2018-honda-odyssey.md)
+* [2018 Honda Odyssey](/vehicles/honda/odyssey/2018-honda-odyssey/)
 
 ## How to add support for a vehicle
 

@@ -13,8 +13,8 @@ To chat about RX's with the community, checkout the  [Comma Slack](https://slack
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2017 Lexus RX Hybrid](./lexus//2017-lexus-rx-hybrid.md)
-* [2018 Lexus RX Hybrid](./lexus//2018-lexus-rx-hybrid.md)
+* [2017 Lexus RX Hybrid](/vehicles/lexus/rx/2017-lexus-rx-hybrid/)
+* [2018 Lexus RX Hybrid](/vehicles/lexus/rx/2018-lexus-rx-hybrid/)
 
 ## How to add support for a vehicle
 

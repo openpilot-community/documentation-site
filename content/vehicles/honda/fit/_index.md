@@ -13,7 +13,7 @@ To chat about Fit's with the community, checkout the  [Comma Slack](https://slac
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2018 Honda Fit](./honda//2018-honda-fit.md)
+* [2018 Honda Fit](/vehicles/honda/fit/2018-honda-fit/)
 
 ## How to add support for a vehicle
 

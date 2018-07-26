@@ -13,7 +13,7 @@ To chat about RDX's with the community, checkout the  [Comma Slack](https://slac
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2018 Acura RDX](./acura//2018-acura-rdx.md)
+* [2018 Acura RDX](/vehicles/acura/rdx/2018-acura-rdx/)
 
 ## How to add support for a vehicle
 

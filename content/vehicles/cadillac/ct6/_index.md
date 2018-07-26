@@ -13,7 +13,7 @@ To chat about CT6's with the community, checkout the  [Comma Slack](https://slac
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2018 Cadillac CT6](./cadillac//2018-cadillac-ct6.md)
+* [2018 Cadillac CT6](/vehicles/cadillac/ct6/2018-cadillac-ct6/)
 
 ## How to add support for a vehicle
 

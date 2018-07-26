@@ -13,8 +13,8 @@ To chat about Accord's with the community, checkout the  [Comma Slack](https://s
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2018 Honda Accord](./honda//2018-honda-accord.md)
-* [2018 Honda Accord Hybrid](./honda//2018-honda-accord-hybrid.md)
+* [2018 Honda Accord](/vehicles/honda/accord/2018-honda-accord/)
+* [2018 Honda Accord Hybrid](/vehicles/honda/accord/2018-honda-accord-hybrid/)
 
 ## How to add support for a vehicle
 

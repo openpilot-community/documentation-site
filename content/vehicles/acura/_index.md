@@ -19,9 +19,8 @@ To chat about Acura's with the community, checkout the [#honda](slack://channel?
 
 This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-
-* [](/vehicles//)
-* [](/vehicles//)
+* [RDX](/vehicles/acura/rdx/)
+* [ILX](/vehicles/acura/ilx/)
 
 ## How to add support for a vehicle
 

@@ -13,10 +13,10 @@ To chat about CR-V's with the community, checkout the  [Comma Slack](https://sla
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2017 Honda CR-V](./honda//2017-honda-cr-v.md)
-* [2018 Honda CR-V](./honda//2018-honda-cr-v.md)
-* [2015 Honda CR-V Touring](./honda//2015-honda-cr-v-touring.md)
-* [2016 Honda CR-V Touring](./honda//2016-honda-cr-v-touring.md)
+* [2017 Honda CR-V](/vehicles/honda/cr-v/2017-honda-cr-v/)
+* [2018 Honda CR-V](/vehicles/honda/cr-v/2018-honda-cr-v/)
+* [2015 Honda CR-V Touring](/vehicles/honda/cr-v/2015-honda-cr-v-touring/)
+* [2016 Honda CR-V Touring](/vehicles/honda/cr-v/2016-honda-cr-v-touring/)
 
 ## How to add support for a vehicle
 

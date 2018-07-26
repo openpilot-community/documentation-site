@@ -19,8 +19,7 @@ To chat about Chevrolet's with the community, checkout the [#gm](slack://channel
 
 This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-
-* [](/vehicles//)
+* [Volt](/vehicles/chevrolet/volt/)
 
 ## How to add support for a vehicle
 

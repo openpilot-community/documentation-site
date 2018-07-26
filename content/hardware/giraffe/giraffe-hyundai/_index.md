@@ -3,6 +3,10 @@ id: giraffe-hyundai
 title: Giraffe (Hyundai)
 ---
 
+This giraffe is custom built by community members for Hyundai models matching similar hardware as the 2017 Hyundai Elantra.
+{{< figure src="https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg" width="250" class="profile-image" >}}
+
+## What is a Giraffe
 The Giraffe is responsible for passing through signals to your vehicles existing driver assistance system. 
 
 It features small toggle switches that allow you to turn the individual pass-throughs on or off to block the signals.  This saves you from having to physically unplug or detach anything from the vehicle to resume using the stock system. It&#x27;s like unplugging, but better. 
@@ -14,7 +18,6 @@ It also has a NEO compatible fake ethernet port with access to CAN1, CAN2, start
 !! A note on the FAKE ethernet port:
 !! DO NOT use this to connect to your laptop or network.
 
-This giraffe is custom built by community members for Hyundai models matching similar hardware as the 2017 Hyundai Elantra.
 
 ## Where to buy
 
@@ -25,13 +28,14 @@ This particular piece of hardware is not currently available for purchase.
 Most hardware related to Openpilot are Open Source.
 We all love Open Source Hardware and there's ton of it within the comma and openpilot communities.
 
-We have found the following links relevant to building the Giraffe (Hyundai):
+We have found the following links relevant to building the Hyundai Giraffe:
 
 * [https://i.imgur.com/avG8Kwu.jpg](https://i.imgur.com/avG8Kwu.jpg)
 
 ## Compatible Vehicles
 
-These vehicles are known to be compatible with the Giraffe (Hyundai) but many other vehicles using similar hardware may also work.
+These vehicles are known to be compatible with the Hyundai Giraffe but comparable vehicles with similar hardware may also work.
 
-* [2017 Hyundai Elantra](./hyundai//2017-hyundai-elantra.md)
+* [2017 Hyundai Elantra](./hyundai/giraffe-hyundai/2017-hyundai-elantra.md)
+
 

@@ -13,10 +13,10 @@ To chat about Civic's with the community, checkout the  [Comma Slack](https://sl
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2016 Honda Civic](./honda//2016-honda-civic.md)
-* [2017 Honda Civic](./honda//2017-honda-civic.md)
-* [2018 Honda Civic](./honda//2018-honda-civic.md)
-* [2017 Honda Civic Hatchback](./honda//2017-honda-civic-hatchback.md)
+* [2016 Honda Civic](/vehicles/honda/civic/2016-honda-civic/)
+* [2017 Honda Civic](/vehicles/honda/civic/2017-honda-civic/)
+* [2018 Honda Civic](/vehicles/honda/civic/2018-honda-civic/)
+* [2017 Honda Civic Hatchback](/vehicles/honda/civic/2017-honda-civic-hatchback/)
 
 ## How to add support for a vehicle
 

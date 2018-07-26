@@ -13,7 +13,7 @@ To chat about Sorento's with the community, checkout the  [Comma Slack](https://
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2018 Kia Sorento](./kia//2018-kia-sorento.md)
+* [2018 Kia Sorento](/vehicles/kia/sorento/2018-kia-sorento/)
 
 ## How to add support for a vehicle
 

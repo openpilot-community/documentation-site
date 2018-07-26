@@ -16,9 +16,15 @@ It also has a NEO compatible fake ethernet port with access to CAN1, CAN2, start
 
 ## Hardware Versions
 
-* [Giraffe (Toyota)](./giraffe/giraffe-toyota.md)
-* [Giraffe (Honda Bosch)](./giraffe/giraffe-honda-bosch.md)
-* [Giraffe (Honda Nidec)](./giraffe/giraffe-honda-nidec.md)
-* [Giraffe (Tesla)](./giraffe/giraffe-tesla.md)
-* [Giraffe (Kia)](./giraffe/giraffe-kia.md)
-* [Giraffe (Hyundai)](./giraffe/giraffe-hyundai.md)
+{{< figure target="_blank" src="https://dl.airtable.com/Jwc7tDeWTR61h39peddF_image.png" link="/hardware/giraffe/giraffe-toyota/" title="Giraffe (Toyota)" height="141" width="250" class="video-image" >}}
+
+{{< figure target="_blank" src="https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png" link="/hardware/giraffe/giraffe-honda-bosch/" title="Giraffe (Honda Bosch)" height="141" width="250" class="video-image" >}}
+
+{{< figure target="_blank" src="https://dl.airtable.com/cJCXUPVvRKC7JYscjuxy_image.png" link="/hardware/giraffe/giraffe-honda-nidec/" title="Giraffe (Honda Nidec)" height="141" width="250" class="video-image" >}}
+
+{{< figure target="_blank" src="" link="/hardware/giraffe/giraffe-tesla/" title="Giraffe (Tesla)" height="141" width="250" class="video-image" >}}
+
+{{< figure target="_blank" src="" link="/hardware/giraffe/giraffe-kia/" title="Giraffe (Kia)" height="141" width="250" class="video-image" >}}
+
+{{< figure target="_blank" src="https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg" link="/hardware/giraffe/giraffe-hyundai/" title="Giraffe (Hyundai)" height="141" width="250" class="video-image" >}}
+

@@ -13,12 +13,12 @@ To chat about Prius's with the community, checkout the  [Comma Slack](https://sl
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2016 Toyota Prius](./toyota//2016-toyota-prius.md)
-* [2017 Toyota Prius](./toyota//2017-toyota-prius.md)
-* [2018 Toyota Prius Prime](./toyota//2018-toyota-prius-prime.md)
-* [2017 Toyota Prius Prime](./toyota//2017-toyota-prius-prime.md)
-* [2017 Toyota Prius Prime (TW)](./toyota//2017-toyota-prius-prime-tw.md)
-* [2018 Toyota Prius Prime](./toyota//2018-toyota-prius-prime.md)
+* [2016 Toyota Prius](/vehicles/toyota/prius/2016-toyota-prius/)
+* [2017 Toyota Prius](/vehicles/toyota/prius/2017-toyota-prius/)
+* [2018 Toyota Prius Prime](/vehicles/toyota/prius/2018-toyota-prius-prime/)
+* [2017 Toyota Prius Prime](/vehicles/toyota/prius/2017-toyota-prius-prime/)
+* [2017 Toyota Prius Prime (TW)](/vehicles/toyota/prius/2017-toyota-prius-prime-tw/)
+* [2018 Toyota Prius Prime](/vehicles/toyota/prius/2018-toyota-prius-prime/)
 
 ## How to add support for a vehicle
 

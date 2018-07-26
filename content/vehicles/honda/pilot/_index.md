@@ -13,9 +13,9 @@ To chat about Pilot's with the community, checkout the  [Comma Slack](https://sl
 This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
 Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-* [2016 Honda Pilot](./honda//2016-honda-pilot.md)
-* [2017 Honda Pilot](./honda//2017-honda-pilot.md)
-* [2018 Honda Pilot](./honda//2018-honda-pilot.md)
+* [2016 Honda Pilot](/vehicles/honda/pilot/2016-honda-pilot/)
+* [2017 Honda Pilot](/vehicles/honda/pilot/2017-honda-pilot/)
+* [2018 Honda Pilot](/vehicles/honda/pilot/2018-honda-pilot/)
 
 ## How to add support for a vehicle
 

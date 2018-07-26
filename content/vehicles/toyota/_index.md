@@ -19,12 +19,11 @@ To chat about Toyota's with the community, checkout the [#toyota](slack://channe
 
 This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
-* [](/vehicles//)
+* [C-HR](/vehicles/toyota/c-hr/)
+* [Camry](/vehicles/toyota/camry/)
+* [Corolla](/vehicles/toyota/corolla/)
+* [Prius](/vehicles/toyota/prius/)
+* [RAV4](/vehicles/toyota/rav4/)
 
 ## How to add support for a vehicle
 
