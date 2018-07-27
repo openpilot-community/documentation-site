@@ -11,7 +11,10 @@ It works great for interfacing with your vehicle and hacking against it but it i
 Keep this in mind.
 
 panda is designed for cars 2008 and newer. panda firmware is released under the MIT license.
-{{< figure src="https://dl.airtable.com/Va7BpwbQzSLiItJc3DKD_image.png" width="250" class="profile-image" >}}
+
+<div class="image-wrap m-3 col-sm-5">
+<img src="https://dl.airtable.com/Va7BpwbQzSLiItJc3DKD_image.png" class="rounded img-fluid img-thumbnail" alt="...">
+</div>
 
 ## What is a Panda
 Panda is the nicest universal car interface ever. It allows you full access to the many communication buses of your car from a computer or a phone.
@@ -39,12 +42,85 @@ This hardware is known to generally work with all fairly modern vehicles.
 
 
 
-        ## Videos
-        {{< figure target="_blank" src="https://i.ytimg.com/vi/WfGNIcFLRIE/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;WfGNIcFLRIE" title="Comma.ai EON Unboxing" height="141" width="250" class="video-image" >}}
-        {{< figure target="_blank" src="https://i.ytimg.com/vi/ePJbekKUU5U/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;ePJbekKUU5U" title="George Hotz, Comma AI | Hack Your Way To A Self-Driving Car @ Web Summit" height="141" width="250" class="video-image" >}}
-        {{< figure target="_blank" src="https://i.ytimg.com/vi/qwNPzVh_sT8/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;qwNPzVh_sT8" title="Comma.ai Launches Panda | Crunch Report" height="141" width="250" class="video-image" >}}
-        {{< figure target="_blank" src="https://i.ytimg.com/vi/uqOsSGgpz0g/hqdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;uqOsSGgpz0g" title="comma ai   Live car hacking with panda this time or bust" height="141" width="250" class="video-image" >}}
-        {{< figure target="_blank" src="https://i.ytimg.com/vi/Tz98JFLOWeI/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;Tz98JFLOWeI&amp;t&#x3D;71s" title="Tutorial: Live Cabana via modified usb cable w/ panda *RED WIRE SEVER*" height="141" width="250" class="video-image" >}}
-        {{< figure target="_blank" src="https://i.ytimg.com/vi/VPZtihs3s48/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;VPZtihs3s48" title="Comma.ai launches an $88 universal car interface called Panda" height="141" width="250" class="video-image" >}}
-        {{< figure target="_blank" src="https://i.ytimg.com/vi/62NIAyTxcjk/maxresdefault.jpg" link="https://www.youtube.com/watch?v&#x3D;62NIAyTxcjk" title="openpilot Installation Guide for Honda Civic (w/ EON, panda, and giraffe)" height="141" width="250" class="video-image" >}}
+## Videos
+
+<div class="card-deck">
+<div class="card">
+<div class="card-image">
+<div class="embed-responsive embed-responsive-16by9">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/WfGNIcFLRIE?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+</div>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="https://www.youtube.com/watch?v&#x3D;WfGNIcFLRIE" target="_blank">Comma.ai EON Unboxing</a></h5>
+
+</div>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="embed-responsive embed-responsive-16by9">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/ePJbekKUU5U?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+</div>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="https://www.youtube.com/watch?v&#x3D;ePJbekKUU5U" target="_blank">George Hotz, Comma AI | Hack Your Way To A Self-Driving Car @ Web Summit</a></h5>
+
+</div>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="embed-responsive embed-responsive-16by9">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/qwNPzVh_sT8?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+</div>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="https://www.youtube.com/watch?v&#x3D;qwNPzVh_sT8" target="_blank">Comma.ai Launches Panda | Crunch Report</a></h5>
+
+</div>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="embed-responsive embed-responsive-16by9">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75.0019%;"><iframe src="https://www.youtube.com/embed/uqOsSGgpz0g?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+</div>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="https://www.youtube.com/watch?v&#x3D;uqOsSGgpz0g" target="_blank">comma ai   Live car hacking with panda this time or bust</a></h5>
+
+</div>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="embed-responsive embed-responsive-16by9">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/Tz98JFLOWeI?rel=0&amp;showinfo=0&amp;start=71" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+</div>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="https://www.youtube.com/watch?v&#x3D;Tz98JFLOWeI&amp;t&#x3D;71s" target="_blank">Tutorial: Live Cabana via modified usb cable w/ panda *RED WIRE SEVER*</a></h5>
+
+</div>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="embed-responsive embed-responsive-16by9">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/VPZtihs3s48?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+</div>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="https://www.youtube.com/watch?v&#x3D;VPZtihs3s48" target="_blank">Comma.ai launches an $88 universal car interface called Panda</a></h5>
+
+</div>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="embed-responsive embed-responsive-16by9">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/62NIAyTxcjk?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+</div>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="https://www.youtube.com/watch?v&#x3D;62NIAyTxcjk" target="_blank">openpilot Installation Guide for Honda Civic (w/ EON, panda, and giraffe)</a></h5>
+
+</div>
+</div>
+</div>
       

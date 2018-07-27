@@ -16,15 +16,59 @@ It also has a NEO compatible fake ethernet port with access to CAN1, CAN2, start
 
 ## Types of Giraffes
 
-{{< figure src="https://dl.airtable.com/Jwc7tDeWTR61h39peddF_image.png" link="/hardware/giraffe/giraffe-toyota/" title="Giraffe (Toyota)" height="141" width="250" class="item-image" >}}
+<div class="card-deck">
 
-{{< figure src="https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png" link="/hardware/giraffe/giraffe-honda-bosch/" title="Giraffe (Honda Bosch)" height="141" width="250" class="item-image" >}}
-
-{{< figure src="https://dl.airtable.com/cJCXUPVvRKC7JYscjuxy_image.png" link="/hardware/giraffe/giraffe-honda-nidec/" title="Giraffe (Honda Nidec)" height="141" width="250" class="item-image" >}}
-
-{{< figure src="https://dl.airtable.com/XYMDKznSlOqUhYfgyNww_image%20(1).png" link="/hardware/giraffe/giraffe-tesla/" title="Giraffe (Tesla)" height="141" width="250" class="item-image" >}}
-
-{{< figure src="https://dl.airtable.com/Pcywo3HMQ6Oz6CC0ibxP_Image%20from%20iOS%20(16).jpg" link="/hardware/giraffe/giraffe-kia/" title="Giraffe (Kia)" height="141" width="250" class="item-image" >}}
-
-{{< figure src="https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg" link="/hardware/giraffe/giraffe-hyundai/" title="Giraffe (Hyundai)" height="141" width="250" class="item-image" >}}
-
+<div class="card">
+<div class="card-image" style="background-image:url(https://dl.airtable.com/Jwc7tDeWTR61h39peddF_image.png);">
+  <a class="card-img-top" href="/hardware/giraffe/giraffe-toyota/"><img src="https://dl.airtable.com/Jwc7tDeWTR61h39peddF_image.png" alt="Photo of Giraffe (Toyota)"></a>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="/hardware/giraffe/giraffe-toyota/">Giraffe (Toyota)</a></h5>
+</div>
+</div>
+              
+<div class="card">
+<div class="card-image" style="background-image:url(https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png);">
+  <a class="card-img-top" href="/hardware/giraffe/giraffe-honda-bosch/"><img src="https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png" alt="Photo of Giraffe (Honda Bosch)"></a>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="/hardware/giraffe/giraffe-honda-bosch/">Giraffe (Honda Bosch)</a></h5>
+</div>
+</div>
+              
+<div class="card">
+<div class="card-image" style="background-image:url(https://dl.airtable.com/cJCXUPVvRKC7JYscjuxy_image.png);">
+  <a class="card-img-top" href="/hardware/giraffe/giraffe-honda-nidec/"><img src="https://dl.airtable.com/cJCXUPVvRKC7JYscjuxy_image.png" alt="Photo of Giraffe (Honda Nidec)"></a>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="/hardware/giraffe/giraffe-honda-nidec/">Giraffe (Honda Nidec)</a></h5>
+</div>
+</div>
+              
+<div class="card">
+<div class="card-image" style="background-image:url(https://dl.airtable.com/O6YqCT1ERmOObGCZkmQv_tesla_giraffe.png);">
+  <a class="card-img-top" href="/hardware/giraffe/giraffe-tesla/"><img src="https://dl.airtable.com/O6YqCT1ERmOObGCZkmQv_tesla_giraffe.png" alt="Photo of Giraffe (Tesla)"></a>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="/hardware/giraffe/giraffe-tesla/">Giraffe (Tesla)</a></h5>
+</div>
+</div>
+              
+<div class="card">
+<div class="card-image" style="background-image:url(https://dl.airtable.com/Ic9OiQShSGizwKEro8rs_kia-giraffe.jpg);">
+  <a class="card-img-top" href="/hardware/giraffe/giraffe-kia/"><img src="https://dl.airtable.com/Ic9OiQShSGizwKEro8rs_kia-giraffe.jpg" alt="Photo of Giraffe (Kia)"></a>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="/hardware/giraffe/giraffe-kia/">Giraffe (Kia)</a></h5>
+</div>
+</div>
+              
+<div class="card">
+<div class="card-image" style="background-image:url(https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg);">
+  <a class="card-img-top" href="/hardware/giraffe/giraffe-hyundai/"><img src="https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg" alt="Photo of Giraffe (Hyundai)"></a>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="/hardware/giraffe/giraffe-hyundai/">Giraffe (Hyundai)</a></h5>
+</div>
+</div>
+              </div>

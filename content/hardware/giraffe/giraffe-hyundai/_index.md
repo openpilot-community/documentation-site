@@ -4,7 +4,10 @@ title: Giraffe (Hyundai)
 ---
 
 This giraffe is custom built by community members for Hyundai models matching similar hardware as the 2017 Hyundai Elantra.
-{{< figure src="https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg" width="250" class="profile-image" >}}
+
+<div class="image-wrap m-3 col-sm-5">
+<img src="https://dl.airtable.com/LmFo8iweRnWvWpEaMOVr_camera.jpg" class="rounded img-fluid img-thumbnail" alt="...">
+</div>
 
 ## What is a Giraffe
 The Giraffe is responsible for passing through signals to your vehicles existing driver assistance system. 
@@ -36,9 +39,10 @@ We have found the following links relevant to building the Hyundai Giraffe:
 
 These vehicles are known to be compatible with the Hyundai Giraffe but comparable vehicles with similar hardware may also work.
 
-* [2017 Hyundai Elantra](./hyundai/giraffe-hyundai/2017-hyundai-elantra.md)
+* [2017 Hyundai Elantra](/vehicles/hyundai/elantra/2017-hyundai-elantra/)
 
 
 
-        ## Videos
+## Videos
+
       

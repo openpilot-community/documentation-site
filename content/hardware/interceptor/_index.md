@@ -7,5 +7,14 @@ Interceptors are devices that run their own firmware and imitate signals to modi
 
 ## Types of Interceptors
 
-{{< figure src="https://dl.airtable.com/Rx6IBkqSQjmtLGa0wPIK_image.png" link="/hardware/interceptor/pedal-interceptor/" title="Pedal Interceptor" height="141" width="250" class="item-image" >}}
+<div class="card-deck">
 
+<div class="card">
+<div class="card-image" style="background-image:url(https://dl.airtable.com/Rx6IBkqSQjmtLGa0wPIK_image.png);">
+  <a class="card-img-top" href="/hardware/interceptor/pedal-interceptor/"><img src="https://dl.airtable.com/Rx6IBkqSQjmtLGa0wPIK_image.png" alt="Photo of Pedal Interceptor"></a>
+</div>
+<div class="card-body">
+<h5 class="card-title"><a href="/hardware/interceptor/pedal-interceptor/">Pedal Interceptor</a></h5>
+</div>
+</div>
+              </div>

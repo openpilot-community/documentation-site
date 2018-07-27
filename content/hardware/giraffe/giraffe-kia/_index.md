@@ -4,7 +4,10 @@ title: Giraffe (Kia)
 ---
 
 This giraffe is custom built by community members for Kia models matching similar hardware as the 2018 Kia Sorento and 2018 Kia Stinger.
-{{< figure src="https://dl.airtable.com/Pcywo3HMQ6Oz6CC0ibxP_Image%20from%20iOS%20(16).jpg" width="250" class="profile-image" >}}
+
+<div class="image-wrap m-3 col-sm-5">
+<img src="https://dl.airtable.com/Ic9OiQShSGizwKEro8rs_kia-giraffe.jpg" class="rounded img-fluid img-thumbnail" alt="...">
+</div>
 
 ## What is a Giraffe
 The Giraffe is responsible for passing through signals to your vehicles existing driver assistance system. 
@@ -36,10 +39,11 @@ We have found the following links relevant to building the Kia Giraffe:
 
 These vehicles are known to be compatible with the Kia Giraffe but comparable vehicles with similar hardware may also work.
 
-* [2018 Kia Stinger](./kia/giraffe-kia/2018-kia-stinger.md)
-* [2018 Kia Sorento](./kia/giraffe-kia/2018-kia-sorento.md)
+* [2018 Kia Stinger](/vehicles/kia/stinger/2018-kia-stinger/)
+* [2018 Kia Sorento](/vehicles/kia/sorento/2018-kia-sorento/)
 
 
 
-        ## Videos
+## Videos
+
       

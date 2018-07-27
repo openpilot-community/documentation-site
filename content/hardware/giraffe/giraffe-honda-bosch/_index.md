@@ -5,7 +5,10 @@ title: Giraffe (Honda Bosch)
 
 This giraffe is designed for new model year Honda/Acura cars that have Honda Sensing/AcuraWatch Plus and Bosch hardware, which is found on the following cars Honda Civic Hatchback, 2017+ Honda CR-V, and 2018+ Honda Accord It may also work on other cars with the same connector. 
 (Honda Bosch ships in 2-8 weeks)
-{{< figure src="https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png" width="250" class="profile-image" >}}
+
+<div class="image-wrap m-3 col-sm-5">
+<img src="https://dl.airtable.com/Srf1lz7zS3CMvDSK99bq_image.png" class="rounded img-fluid img-thumbnail" alt="...">
+</div>
 
 ## What is a Giraffe
 The Giraffe is responsible for passing through signals to your vehicles existing driver assistance system. 
@@ -40,13 +43,14 @@ We have found the following links relevant to building the Bosch Giraffe:
 
 These vehicles are known to be compatible with the Bosch Giraffe but comparable vehicles with similar hardware may also work.
 
-* [2018 Honda Accord Hybrid](./honda/giraffe-honda-bosch/2018-honda-accord-hybrid.md)
-* [2018 Honda Accord](./honda/giraffe-honda-bosch/2018-honda-accord.md)
-* [2017 Honda Civic Hatchback](./honda/giraffe-honda-bosch/2017-honda-civic-hatchback.md)
-* [2017 Honda CR-V](./honda/giraffe-honda-bosch/2017-honda-cr-v.md)
-* [2018 Honda CR-V](./honda/giraffe-honda-bosch/2018-honda-cr-v.md)
+* [2018 Honda Accord Hybrid](/vehicles/honda/accord/2018-honda-accord-hybrid/)
+* [2018 Honda Accord](/vehicles/honda/accord/2018-honda-accord/)
+* [2017 Honda Civic Hatchback](/vehicles/honda/civic/2017-honda-civic-hatchback/)
+* [2017 Honda CR-V](/vehicles/honda/cr-v/2017-honda-cr-v/)
+* [2018 Honda CR-V](/vehicles/honda/cr-v/2018-honda-cr-v/)
 
 
 
-        ## Videos
+## Videos
+
       
