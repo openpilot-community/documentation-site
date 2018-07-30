@@ -14,9 +14,6 @@ PLEASE USE AIRTABLE.COM DATABASE TO UPDATE
 Openpilot is compatible with *some* **Chevrolet** model(s) so feel free to browse the support pages for these models below for additional specifics.
 The goal is to always support as many vehicles as possible.
 
-<div class="image-wrap m-3 float-sm-right col-sm-3">
-<img src="https://dl.airtable.com/DwexaJ0wSmWEqqK2NfPJ_camera.jpg" class="rounded img-fluid img-thumbnail" alt="...">
-</div>
 
 
 To chat about Chevrolets with the community, checkout the [#gm](slack://channel?id=gm&team=comma) channel in the [Comma Slack](https://slack.comma.ai).

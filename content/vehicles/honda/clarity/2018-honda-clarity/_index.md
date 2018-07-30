@@ -1,28 +1,24 @@
 ---
 id: 2018-honda-clarity
-title: 2018 Honda Clarity
-description: Information about running Comma.ai Openpilot on the 2018 Honda Clarity
+title: 2018 2018 Honda Clarity
+description: Information about running Comma.ai Openpilot on the 2018 2018 Honda Clarity
 ---
 
-The 2018 Honda Clarity is currently in early development and may not be fully supported just yet.
-It is not currently available in the official [commaai/openpilot](https://github.com/commaai/openpilot) version of openpilot just yet.
-
-We will continue to update this page as things progress.
-
-## Compatibility
-
-### Longitudinal Control
+<div class="image-wrap m-3 float-sm-right col-sm-3">
+<img src="https://dl.airtable.com/1zSSs6cGSpCnTCgIP2hl_2018%20Honda%20Clarity.png" class="rounded img-fluid img-thumbnail" alt="...">
+</div>
 
 
 
-## Comma Pedal
-
-This vehicle has openpilot compatibility [Comma Pedal](/hardware/pedal).
-
-### Vehicle specific benefits with Pedal
-
-
-
-## Videos
-
+To chat about 2018 Honda Claritys with the community, checkout the  [Comma Slack](https://slack.comma.ai).
       
+## Configurations
+The following configuration details have been gathered for the 2018 2018 Honda Clarity.
+
+
+
+
+
+
+
+

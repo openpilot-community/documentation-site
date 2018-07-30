@@ -14,9 +14,6 @@ PLEASE USE AIRTABLE.COM DATABASE TO UPDATE
 Openpilot is compatible with *some* **Kia** model(s) so feel free to browse the support pages for these models below for additional specifics.
 The goal is to always support as many vehicles as possible.
 
-<div class="image-wrap m-3 float-sm-right col-sm-3">
-<img src="https://dl.airtable.com/1m243B2S8SLd167wxF6v_Kia.png" class="rounded img-fluid img-thumbnail" alt="...">
-</div>
 
 
 To chat about Kias with the community, checkout the [#hyundai](slack://channel?id=hyundai&team=comma) channel in the [Comma Slack](https://slack.comma.ai).

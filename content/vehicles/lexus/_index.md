@@ -14,9 +14,6 @@ PLEASE USE AIRTABLE.COM DATABASE TO UPDATE
 Openpilot is compatible with *some* **Lexus** model(s) so feel free to browse the support pages for these models below for additional specifics.
 The goal is to always support as many vehicles as possible.
 
-<div class="image-wrap m-3 float-sm-right col-sm-3">
-<img src="https://dl.airtable.com/scDHYy2Rgul6RfwIiVLo_camera.jpg" class="rounded img-fluid img-thumbnail" alt="...">
-</div>
 
 
 To chat about Lexuss with the community, checkout the [#toyota](slack://channel?id=toyota&team=comma) channel in the [Comma Slack](https://slack.comma.ai).

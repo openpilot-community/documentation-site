@@ -14,9 +14,6 @@ PLEASE USE AIRTABLE.COM DATABASE TO UPDATE
 Openpilot is compatible with *some* **Tesla** model(s) so feel free to browse the support pages for these models below for additional specifics.
 The goal is to always support as many vehicles as possible.
 
-<div class="image-wrap m-3 float-sm-right col-sm-3">
-<img src="https://dl.airtable.com/kA2RbZOTCa3zb3KxZMnA_image.png" class="rounded img-fluid img-thumbnail" alt="...">
-</div>
 
 
 To chat about Teslas with the community, checkout the [#tesla](slack://channel?id=tesla&team=comma) channel in the [Comma Slack](https://slack.comma.ai).

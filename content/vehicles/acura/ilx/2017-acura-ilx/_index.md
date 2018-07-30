@@ -1,28 +1,24 @@
 ---
 id: 2017-acura-ilx
-title: 2017 Acura ILX w/ AcuraWatch Plus
-description: Information about running Comma.ai Openpilot on the 2017 Acura ILX w/ AcuraWatch Plus
+title: 2017 2017 Acura ILX w/ AcuraWatch Plus
+description: Information about running Comma.ai Openpilot on the 2017 2017 Acura ILX w/ AcuraWatch Plus
 ---
 
-The 2017 Acura ILX was upstreamed to the [commaai/openpilot](https://github.com/commaai/openpilot) repository and generally means it is a compatible / supported vehicle for openpilot.
+<div class="image-wrap m-3 float-sm-right col-sm-3">
+<img src="https://dl.airtable.com/LT3CsLZCQAa2AJgDR80z_2017%20Acura%20ILX.png" class="rounded img-fluid img-thumbnail" alt="...">
+</div>
 
 
-        To chat about 2017 Acura ILXs with the community, checkout the  [Comma Slack](https://slack.comma.ai).
+
+To chat about 2017 Acura ILXs with the community, checkout the  [Comma Slack](https://slack.comma.ai).
       
-## Compatibility
-
-### Longitudinal Control
-
-
-
-## Comma Pedal
-
-This vehicle has openpilot compatibility [Comma Pedal](/hardware/pedal).
-
-### Vehicle specific benefits with Pedal
+## Configurations
+The following configuration details have been gathered for the 2017 2017 Acura ILX w/ AcuraWatch Plus.
 
 
 
-## Videos
 
-      
+
+
+
+
